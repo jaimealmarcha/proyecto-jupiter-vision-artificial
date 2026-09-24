@@ -1,0 +1,28 @@
+﻿id_subtipo,nombre,id_tipo
+1,Apple A,1
+2,Apple B,1
+3,Apple C,1
+4,Apple D,1
+5,Apple E,1
+6,Apple F,1
+7,Total Number of Apples,1
+8,Banana,2
+9,Carambola,3
+10,Guava total,4
+11,guava A,4
+12,guava B,4
+13,guava total final,4
+14,Kiwi B,5
+15,Kiwi C,5
+16,Total Number of Kiwi fruit,5
+17,kiwi A,5
+18,Mango,6
+19,Orange,7
+20,Peach,8
+21,Pear,9
+22,Persimmon,10
+23,Pitaya,11
+24,Plum,12
+25,Pomegranate,13
+26,Tomatoes,14
+27,muskmelon,15
